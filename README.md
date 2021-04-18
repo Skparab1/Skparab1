@@ -1,4 +1,4 @@
-## Heyo 👋
+## Heyo there👋
 
 ### Projects
   - Encryption code, Encrypting and decrypting program written in python
@@ -10,3 +10,4 @@
   - I like coding in python
   - I also know java and pascal
   - I am currently working on Encryption code
+ 
