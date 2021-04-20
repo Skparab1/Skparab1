@@ -7,7 +7,7 @@
 
 ### About me
   - I am a 9th grader
-  - I like coding in python
+  - I like coding in Python
   - I also know Java and Pascal
   - I am currently working on Encryption code
 
