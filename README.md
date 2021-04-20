@@ -16,3 +16,17 @@
     - Since then, it has gone through 14 versions, with the last one, Encryption code 2.1, being released on April 4th, 2021
     - In December 2020, I launched the Encryption code website, which can now be viewed at sites.google.com/view/encryptioncode
     - In late March 2021, Encryption code Pro was announced, and it is set to be released in mid summer 2020
+    - In early May 2021, an Encryption code Video will be released.
+  - Created game codes that can be played in a single user interface
+### Things I'm working on right now
+  - Encryption code
+    - Encryption code video: I'm working on a video for Encryption and animations for it. The video will be released in Early may 2021.
+    - Encryption code app: An app that will have the full functionallity of Encryption code. Possibly can integrate within other apps. Release date not yet announced.
+    - Encryption code Pro: The next generation, paid version of Encryption code. Release date estimated to be mid summer 2021.
+    - Encryption code 2.2: The next version of Encryption code.
+ - An AI engine
+    - I'm working on an AI engine, similar to a virtual assistant, except with integrated machine learning
+ - Master math calculator
+    - Compilation of all math codes in my math codes repo. runs on command line interface
+ - Dino game
+    - Recplicating google chrome no internet game in python.
