@@ -10,6 +10,7 @@
   - I like coding in Python
   - I also know Java and Pascal
   - I am currently working on Encryption code
+  - I am a member of cs club
 
 ### Things I've done
   - In May 2020, I launched the world's first free text encryption service in python, Encryption code
