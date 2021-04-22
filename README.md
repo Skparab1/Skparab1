@@ -9,6 +9,7 @@
   - I am a 9th grader
   - I like coding in Python
   - I also know Java and Pascal
+  - I don't like Java (I find it too complicated)
   - I am currently working on Encryption code
   - I am a member of cs club
 
