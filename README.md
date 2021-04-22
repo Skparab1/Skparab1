@@ -30,4 +30,4 @@
  - Master math calculator
     - Compilation of all math codes in my math codes repo. runs on command line interface
  - Dino game
-    - Recplicating google chrome no internet game in python.
+    - Replicating google chrome no internet game in python.
