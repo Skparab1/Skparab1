@@ -31,6 +31,8 @@
     - I'm working on an AI engine, similar to a virtual assistant, except with integrated machine learning
     - Name still not finalized
  - Master math calculator
-    - Compilation of all math codes in my math codes repo. runs on command line interface
+    - Compilation of all math codes in my math codes repo. Runs on command line interface.
+    - Check out my master-math-calculator repository
  - Dino game
     - Replicating google chrome no internet game in Python.
+    - Check out my Dino-game repository
