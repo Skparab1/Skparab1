@@ -24,7 +24,7 @@
 ### Things I'm working on right now
   - Encryption code
     - Encryption code video: I'm working on a video for Encryption and animations for it. The video will be released in Early may 2021.
-    - Encryption code app: An app that will have the full functionallity of Encryption code. Possibly can integrate within other apps. Release date not yet announced.
+    - Encryption code app: An app that will have the full functionality of Encryption code. Possibly can integrate within other apps. Release date not yet announced.
     - Encryption code Pro: The next generation, paid version of Encryption code. Release date estimated to be mid summer 2021.
     - Encryption code 2.2: The next version of Encryption code.
  - An AI engine
@@ -36,3 +36,6 @@
  - Dino game
     - Replicating google chrome no internet game in Python.
     - Check out my Dino-game repository
+ - Virtual assistant builder
+    - Program that builds a virtual assistant by asking the user questions.
+    - check our my virtual-assistant builder repository
