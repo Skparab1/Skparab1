@@ -39,4 +39,4 @@
  - Virtual assistant builder
     - Program that builds a virtual assistant by asking the user questions.
     - Generates gode in Python
-    - Check our my virtual-assistant builder repository
+    - Check out my virtual-assistant builder repository
