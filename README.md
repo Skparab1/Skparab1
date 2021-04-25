@@ -1,4 +1,4 @@
-## Heyo there👋
+## Heyo 👋
 
 ### Projects
   - Encryption code, Encrypting and decrypting program written in Python
@@ -39,4 +39,4 @@
  - Virtual assistant builder
     - Program that builds a virtual assistant by asking the user questions.
     - Generates gode in Python
-    - check our my virtual-assistant builder repository
+    - Check our my virtual-assistant builder repository
