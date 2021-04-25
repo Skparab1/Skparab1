@@ -1,9 +1,9 @@
 ## Heyo 👋
 
 ### Projects
-  - Encryption code, Encrypting and decrypting program written in Python
-  - Dino game, Replicating google chrome's no internet dino game, written in Python
-  - Master math calculator, Calculator that can perform all sorts of calculations, from factoring polynomials to generating trig ratios, as well as performing numerical calculations. Written in Python.
+  - Encryption code, encrypting and decrypting program written in Python.
+  - Dino game, replicating google chrome's no internet dino game in Python in shell (not graphics window)
+  - Master math calculator, calculator that can perform all sorts of calculations, from factoring polynomials to generating trig ratios, as well as performing numerical calculations. Runs on a command line interface and is written in Python.
 
 ### About me
   - I am a 9th grader
