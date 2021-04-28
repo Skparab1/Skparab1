@@ -1,5 +1,7 @@
 ## Heyo 👋
 
+[![skparab1's github stats](https://github-readme-stats.vercel.app/api?username=skparab1)](https://github.com/skparab1/github-readme-stats)
+
 ### Projects
   - Encryption code, encrypting and decrypting program written in Python.
   - Dino game, replicating google chrome's no internet dino game in Python in shell (not graphics window)
