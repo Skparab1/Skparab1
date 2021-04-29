@@ -31,7 +31,6 @@
     - Encryption code 2.2: The next version of Encryption code.
  - An AI engine
     - I'm working on an AI engine, similar to a virtual assistant, except with integrated machine learning
-    - Name still not finalized
  - Master math calculator
     - Compilation of all math codes in my math codes repo. Runs on command line interface.
     - Check out my master-math-calculator repository
