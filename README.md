@@ -29,6 +29,7 @@
     - Encryption code app: An app that will have the full functionality of Encryption code. Possibly can integrate within other apps. Release date not yet announced.
     - Encryption code Pro: The next generation, paid version of Encryption code. Release date estimated to be mid summer 2021.
     - Encryption code 2.2: The next version of Encryption code.
+      - With features like Encryption code account
  - An AI engine
     - I'm working on an AI engine, similar to a virtual assistant, except with integrated machine learning
  - Master math calculator
