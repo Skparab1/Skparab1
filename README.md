@@ -26,6 +26,7 @@
 ### Things I'm working on right now
   - Encryption code
     - Encryption code video: I'm working on a video for Encryption code and animations for it. The video will be released in Early may 2021, a year from when Encryption code was founded
+      - This video will consist of 2d and 3d animations, and will showcase some features of Encryption code series 2
     - Encryption code app: An app that will have the full functionality of Encryption code. Possibly can integrate within other apps. Release date not yet announced.
     - Encryption code Pro: The next generation, paid version of Encryption code. Release date estimated to be mid summer 2021.
     - Encryption code 2.2: The next version of Encryption code.
