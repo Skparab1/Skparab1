@@ -1,6 +1,5 @@
 ## Heyo 👋
 
-[![skparab1's GitHub stats](https://github-readme-stats.vercel.app/api?username=skparab1)](https://github.com/skparab1/github-readme-stats)
 
 ### Projects
   - Encryption code, encrypting and decrypting program written in Python.
