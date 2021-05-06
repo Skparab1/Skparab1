@@ -20,7 +20,7 @@
     - Since then, it has gone through 14 versions, with the most recent one, Encryption code 2.1, being released on April 4th, 2021
     - In December 2020, I launched the Encryption code website, which can now be viewed at sites.google.com/view/encryptioncode
     - In late March 2021, Encryption code Pro was announced, and it is set to be released in mid summer 2020.
-    - On May 7th 2021, an Encryption code Video will be released.
+    - On May 7th 2021, The Encryption code 2.2 Video will be released.
   - Created game codes that can be played in a single user interface
     - Check out my game-codes and dino-game repositories
 ### Things I'm working on right now
