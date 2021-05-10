@@ -23,7 +23,7 @@
     - In late March 2021, Encryption code Pro was announced, and it is set to be released in mid summer 2020.
     - On May 7th 2021, I released the Encryption code video. You can view it at youtu.be/7Jy2Ln0EdFQ.
   - Created game codes that can be played in a single user interface
-    - Check out my game-codes and dino-game repositories
+    - Check out my game-codes, dino-game, and crossy-road repositories
 ### Things I'm working on right now
   - Encryption code
     - Encryption code app: An app that will have the full functionality of Encryption code. Possibly can integrate within other apps. Release date not yet announced.
@@ -31,8 +31,6 @@
     - Encryption code 2.2: The next version of Encryption code.
       - With features like Encryption code account
       - see repo in Encryptioncode organization
- - An AI engine
-    - I'm working on an AI engine, similar to a virtual assistant, except with integrated machine learning
  - Master math calculator
     - Compilation of all math codes in my math codes repo. Runs on command line interface.
     - Check out my master-math-calculator repository
