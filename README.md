@@ -39,5 +39,5 @@
     - Check out my Dino-game repository
  - Virtual assistant builder
     - Program that builds a virtual assistant by asking the user questions.
-    - Generates gode in Python
+    - Generates code in Python
     - Check out my virtual-assistant builder repository
