@@ -37,6 +37,8 @@
  - Dino game
     - Replicating google chrome no internet game in Python.
     - Check out my Dino-game repository
+ - Crossy road
+    - Replicating the video game Crossy road in Python shell
  - Virtual assistant builder
     - Program that builds a virtual assistant by asking the user questions.
     - Generates code in Python
