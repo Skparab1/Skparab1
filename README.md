@@ -24,6 +24,7 @@
     - On May 7th 2021, I released the Encryption code video. You can view it at youtu.be/7Jy2Ln0EdFQ.
   - Created game codes that can be played in a single user interface
     - Check out my game-codes, dino-game, and crossy-road repositories
+  - Released two versions of Crossy road
 ### Things I'm working on right now
   - Encryption code
     - Encryption code app: An app that will have the full functionality of Encryption code. Possibly can integrate within other apps. Release date not yet announced.
