@@ -1,8 +1,10 @@
 ## Heyo 👋
 
 [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=skparab1)](https://github.com/skparab1/github-readme-stats)
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=skparab1.skparab1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skparab1&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skparab1)
 
 ### Projects
   - Encryption code, encrypting and decrypting program written in Python.
