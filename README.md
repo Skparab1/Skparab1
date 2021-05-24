@@ -33,3 +33,5 @@
     - Replicating the video game Crossy road in Python shell
  - Flappy bird
     - Replicating the video game flappy bird in Python shell
+ - Dynamic Spanish-english translator
+    - Translator that you can teach
