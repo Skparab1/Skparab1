@@ -19,22 +19,17 @@
   - I am currently working on Encryption code
   - I am a member of cs club
 
-### Things I'm working on right now
-  - Encryption code
-    - Encryption code app: An app that will have the full functionality of Encryption code. Possibly can integrate within other apps. Release date not yet announced.
+### Things I'm doing
+  - Working on Encryption code
+    - Encryption code app: An app that will have the full functionality of Encryption code. Possibly can integrate within other apps.
     - Encryption code Pro: The next generation, paid version of Encryption code. Release date estimated to be mid summer 2021.
     - Encryption code 2.2: The next version of Encryption code.
       - With features like Encryption code account
       - see repo in Encryptioncode organization
- - Master math calculator
-    - Compilation of all math codes in my math codes repo. Runs on command line interface.
-    - Check out my master-math-calculator repository
  - Dino game
     - Replicating google chrome no internet game in Python.
     - Check out my Dino-game repository
  - Crossy road
     - Replicating the video game Crossy road in Python shell
- - Virtual assistant builder
-    - Program that builds a virtual assistant by asking the user questions.
-    - Generates code in Python
-    - Check out my virtual-assistant builder repository
+ - Flappy bird
+    - Replicating the video game flappy bird in Python shell
