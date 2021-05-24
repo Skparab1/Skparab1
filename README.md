@@ -19,15 +19,6 @@
   - I am currently working on Encryption code
   - I am a member of cs club
 
-### Things I've done
-  - In May 2020, I launched the world's first free text encryption service in Python, Encryption code
-    - Since then, it has gone through 14 versions, with the most recent one, Encryption code 2.1, being released on April 4th, 2021
-    - In December 2020, I launched the Encryption code website, which can now be viewed at sites.google.com/view/encryptioncode
-    - In late March 2021, Encryption code Pro was announced, and it is set to be released in mid summer 2020.
-    - On May 7th 2021, I released the Encryption code video. You can view it at youtu.be/7Jy2Ln0EdFQ.
-  - Created game codes that can be played in a single user interface
-    - Check out my game-codes, dino-game, and crossy-road repositories
-  - Released two versions of Crossy road
 ### Things I'm working on right now
   - Encryption code
     - Encryption code app: An app that will have the full functionality of Encryption code. Possibly can integrate within other apps. Release date not yet announced.
