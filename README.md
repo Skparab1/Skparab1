@@ -29,9 +29,9 @@
  - Dino game
     - Replicating google chrome no internet game in Python.
     - Check out my Dino-game repository
- - Crossy road
-    - Replicating the video game Crossy road in Python shell
+ - Pong
+    - Replicating the video game Pong in Python
  - Flappy bird
-    - Replicating the video game flappy bird in Python shell
+    - Replicating the video game flappy bird in Python
  - Dynamic Spanish-english translator
     - Translator that you can teach
