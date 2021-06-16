@@ -7,8 +7,8 @@
 
 ### Projects
   - [Encryption code](https://github.com/skparab1/encryption-code), encrypting and decrypting program written in Python.
-  - [Encryption code](https://github.com/skparab1/master-math-calculator), calculator that can perform all sorts of calculations, from factoring polynomials to generating trig ratios, as well as performing numerical calculations. Runs on a command line interface and is written in Python.
-  - Game codes, like ![pong](), ![Flappy_bird](github.com/skparab1/flappy-bird), and ![Crossy road](), replicating the video games in Python(not graphic window)
+  - [Master-math-calculator](https://github.com/skparab1/master-math-calculator), calculator that can perform all sorts of calculations, from factoring polynomials to generating trig ratios, as well as performing numerical calculations. Runs on a command line interface and is written in Python.
+  - Game codes, like [Pong](https://github.com/skparab1/pong), [Flappy bird](https://github.com/skparab1/flappy-bird), and [Snake game](https://github.com/skparab1/snake-game), replicating the video games in Python(not graphic window)
 
 ### About me
   - I am a 9th grader
@@ -20,7 +20,7 @@
   - I am a member of cs club
 
 ### Things I'm doing
-  - Working on [Encryption_code]()
+  - [Encryption code](https://github.com/skparab1/encryption-code)
     - Encryption code app: An app that will have the full functionality of Encryption code. Possibly can integrate within other apps.
     - Encryption code Pro: The next generation, paid version of Encryption code. Release date estimated to be mid summer 2021.
     - Encryption code 2.2: The next version of Encryption code.
