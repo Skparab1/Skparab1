@@ -7,7 +7,7 @@
 
 ### Projects
   - [Encryption code](https://github.com/skparab1/encryption-code), encrypting and decrypting program written in Python.
-  - ![Master_math_calculator](), calculator that can perform all sorts of calculations, from factoring polynomials to generating trig ratios, as well as performing numerical calculations. Runs on a command line interface and is written in Python.
+  - [Encryption code](https://github.com/skparab1/master-math-calculator), calculator that can perform all sorts of calculations, from factoring polynomials to generating trig ratios, as well as performing numerical calculations. Runs on a command line interface and is written in Python.
   - Game codes, like ![pong](), ![Flappy_bird](github.com/skparab1/flappy-bird), and ![Crossy road](), replicating the video games in Python(not graphic window)
 
 ### About me
