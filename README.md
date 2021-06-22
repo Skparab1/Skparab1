@@ -15,8 +15,8 @@
   - I like coding in Python
   - I also know Java and Pascal
   - I don't like Java (It's complicated) and Pascal is kinda old so I use Python most of the time
-  - I am currently working on [Encryption_code]()
-  - I like replicating video games in Python, like [Flappy bird]() and [Crossy road]()
+  - I am currently working on [Encryption code](https://github.com/skparab1/encryption-code)
+  - I like replicating video games in Python, like [Flappy bird](https://github.com/skparab1/flappy-bird) and [Pong ](https://github.com/skparab1/pong)
   - I am a member of cs club
 
 ### Things I'm doing
