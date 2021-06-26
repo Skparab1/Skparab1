@@ -12,7 +12,7 @@
 
 ### About me
   - I am a 9th grader
-  - I like coding in Python
+  - I like programming in Python
   - I also know Java and Pascal
   - I don't like Java (It's complicated) and Pascal is kinda old so I use Python most of the time
   - I am currently working on [Encryption code](https://github.com/skparab1/encryption-code)
