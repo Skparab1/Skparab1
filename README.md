@@ -33,5 +33,7 @@
     - Replicating the video game Pong in Python
  - Flappy bird
     - Replicating the video game flappy bird in Python
+ - Html/Javascript games
+    - Check out latest one [here](https://skparab1.itch.io/sword-jumper), co-developed with teammates
  - Dynamic Spanish-english translator
     - Translator that you can teach
