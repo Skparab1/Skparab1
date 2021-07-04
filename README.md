@@ -11,7 +11,7 @@
   - Game codes, like [Pong](https://github.com/skparab1/pong), [Flappy bird](https://github.com/skparab1/flappy-bird), and [Snake game](https://github.com/skparab1/snake-game), replicating the video games in Python(not graphic window)
 
 ### About me
-  - I am a 9th grader
+  - I am a 9th grader in California
   - I like programming in Python
   - I also know Java and Pascal and am familiar with html and javascript
   - I don't like Java (It's complicated) and Pascal is kinda old so I use Python most of the time
