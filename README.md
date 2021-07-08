@@ -24,7 +24,6 @@
     - Encryption code Pro: The next generation, paid version of Encryption code. Release date estimated to be mid summer 2021.
     - Encryption code 2.2: The next version of Encryption code.
       - With features like Encryption code account
-      - see repo in Encryptioncode organization
  - Dino game
     - Replicating google chrome no internet game in Python.
     - Check out my Dino-game repository
