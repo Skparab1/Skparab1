@@ -22,8 +22,8 @@
   - [Encryption code](https://github.com/skparab1/encryption-code)
     - Encryption code app: An app that will have the full functionality of Encryption code. Possibly can integrate within other apps.
     - Encryption code Pro: The next generation, paid version of Encryption code. Release date estimated to be mid summer 2021.
-    - Encryption code 2.2: The next version of Encryption code.
-      - With features like Encryption code account
+    - Encryption code 2.3: The next version of Encryption code.
+      - With features Encryption support for multiple file types
  - Dino game
     - Replicating google chrome no internet game in Python.
     - Check out my Dino-game repository
