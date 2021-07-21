@@ -23,13 +23,13 @@
     - Encryption code app: An app that will have the full functionality of Encryption code. Possibly can integrate within other apps.
     - Encryption code Pro: The next generation, paid version of Encryption code. Release date estimated to be mid summer 2021.
     - Encryption code 2.3: The next version of Encryption code.
-      - With features Encryption support for multiple file types
+      - With features like Encryption support for multiple file types
  - Games
-    - Dino game
+     - [Dino game](https://github.com/skparab1/dino-game)
         - Replicating google chrome no internet game in Python.
-     - Pong
+     - [Pong](https://github.com/skparab1/pong)
         - Replicating the video game Pong in Python
-     - Flappy bird
+     - [Flappy bird](https://github.com/skparab1/flappy-bird)
         - Replicating the video game flappy bird in Python
      - Html/Javascript games
         - Check out latest one [here](https://skparab1.itch.io/sword-jumper), co-developed with teammates
