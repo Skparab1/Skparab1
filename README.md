@@ -1,6 +1,6 @@
 ## Heyo 👋
 
-![Shubham's GitHub stats]![](https://github-readme-stats.vercel.app/api?username=skparab1&theme=dark)
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=skparab1&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skparab1&theme=dark)
 ![Shubham's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skparab1&theme=dark)
 ![](https://visitor-badge.laobi.icu/badge?page_id=skparab1.skparab1&theme=dark)
