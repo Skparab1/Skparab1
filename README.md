@@ -8,10 +8,10 @@
 ### Projects
   - [Encryption code](https://github.com/skparab1/encryption-code), encrypting and decrypting program written in Python.
   - [Master-math-calculator](https://github.com/skparab1/master-math-calculator), calculator that can perform all sorts of calculations, from factoring polynomials to generating trig ratios, as well as performing numerical calculations. Runs on a command line interface and is written in Python.
-  - Game codes, like [Pong](https://github.com/skparab1/pong), [Flappy bird](https://github.com/skparab1/flappy-bird), and [Snake game](https://github.com/skparab1/snake-game), replicating the video games in Python(not graphic window)
+  - Game codes, like [Pong](https://github.com/skparab1/pong), [Flappy bird](https://github.com/skparab1/flappy-bird), and [Snake game](https://github.com/skparab1/snake-game), replicating the video games in Python
 
 ### About me
-  - I am a 9th grader in California
+  - I am a 10th grader in California
   - I like programming in Python
   - I also know Javascript and Pascal and am familiar with Html and Java
   - I am currently working on [Encryption code](https://github.com/skparab1/encryption-code)
@@ -24,7 +24,8 @@
     - Encryption code Pro: The next generation, paid version of Encryption code. Release date estimated to be mid summer 2021.
     - Encryption code 2.3: The next version of Encryption code.
       - With features Encryption support for multiple file types
- - Dino game
+ - Games
+    - Dino game
     - Replicating google chrome no internet game in Python.
     - Check out my Dino-game repository
  - Pong
@@ -33,5 +34,4 @@
     - Replicating the video game flappy bird in Python
  - Html/Javascript games
     - Check out latest one [here](https://skparab1.itch.io/sword-jumper), co-developed with teammates
- - Dynamic Spanish-english translator
-    - Translator that you can teach
+ - Math codes
