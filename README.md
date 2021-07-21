@@ -31,5 +31,7 @@
         - Replicating the video game Pong in Python
      - [Flappy bird](https://github.com/skparab1/flappy-bird)
         - Replicating the video game flappy bird in Python
+     - [Battleship](https://github.com/skparab1/battleship)
+        - Play the board game battleship against the computer. Computer uses AI(Artificial inteligence) and ML(Machine learning) algorithms
      - Html/Javascript games
         - Check out latest one [here](https://skparab1.itch.io/sword-jumper), co-developed with teammates
