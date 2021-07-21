@@ -20,11 +20,9 @@
 
 ### Things I'm doing
   - [Encryption code](https://github.com/skparab1/encryption-code)
-    - Encryption code app: An app that will have the full functionality of Encryption code. Possibly can integrate within other apps.
-    - Encryption code Pro: The next generation, paid version of Encryption code. Release date estimated to be mid summer 2021.
     - Encryption code 2.3: The next version of Encryption code.
       - With features like Encryption support for multiple file types
- - Games
+  - Games
      - [Dino game](https://github.com/skparab1/dino-game)
         - Replicating google chrome no internet game in Python.
      - [Pong](https://github.com/skparab1/pong)
@@ -35,3 +33,5 @@
         - Play the board game battleship against the computer. Computer uses AI(Artificial inteligence) and ML(Machine learning) algorithms
      - Html/Javascript games
         - Check out latest one [here](https://skparab1.itch.io/sword-jumper), co-developed with teammates
+   - [Math codes](https://github.com/skparab1/math-codes)
+     - Compiled into [Master math calculator](https://github.com/skparab1/master-math-calculator), which runs on a command line interface
