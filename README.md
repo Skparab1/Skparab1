@@ -16,7 +16,7 @@
   - I also know Javascript and Pascal and am familiar with Html and Java
   - I am currently working on [Encryption code](https://github.com/skparab1/encryption-code)
   - I like replicating video games in Python, like [Flappy bird](https://github.com/skparab1/flappy-bird), [Pong](https://github.com/skparab1/pong), and [Battleship](https://github.com/skparab1/battleship)
-  - I am a member of cs club
+  - I also like biking, hiking, video editing, and 2d animating
 
 ### Things I'm doing
   - [Encryption code](https://github.com/skparab1/encryption-code)
