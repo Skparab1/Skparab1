@@ -34,4 +34,4 @@
      - Html/Javascript games
         - Check out latest one [here](https://skparab1.itch.io/sword-jumper), co-developed with teammates
    - [Math codes](https://github.com/skparab1/math-codes)
-     - Compiled into [Master math calculator](https://github.com/skparab1/master-math-calculator), which runs on a command line interface
+     - Compiled into [Master math calculator](https://github.com/skparab1/master-math-calculator), which runs on a command line interface.
