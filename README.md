@@ -23,14 +23,12 @@
     - Encryption code 2.3: The next version of Encryption code.
       - With features like Encryption support for multiple file types
   - Games
-     - [Dino game](https://github.com/skparab1/dino-game)
-        - Replicating google chrome no internet game in Python.
      - [Pong](https://github.com/skparab1/pong)
-        - Replicating the video game Pong in Python
-     - [Flappy bird](https://github.com/skparab1/flappy-bird)
-        - Replicating the video game flappy bird in Python
+        - Replicating one of the first video games, Pong, in Python
      - [Battleship](https://github.com/skparab1/battleship)
         - Play the board game battleship against the computer. Computer uses AI(Artificial inteligence) and ML(Machine learning) algorithms
+     - [Flappy bird](https://github.com/skparab1/flappy-bird)
+        - Replicating the popular video game Flappy bird in Python
      - Html/Javascript games
         - Check out latest one [here](https://skparab1.itch.io/sword-jumper), co-developed with teammates
    - [Math codes](https://github.com/skparab1/math-codes)
