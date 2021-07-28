@@ -35,3 +35,5 @@
      - Compiled into [Master math calculator](https://github.com/skparab1/master-math-calculator), which runs on a command line interface.
    - [Javascript interactives](https://github.com/skparab1/javascript-interactives)
      - Set of interactive javascript data visualizations
+   - [Randomizing algorithm](https://github.com/skparab1/randomizing-algorithm)
+     - An algorithm based random number generator
