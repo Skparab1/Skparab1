@@ -5,11 +5,6 @@
 ![Shubham's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skparab1&theme=dark)
 ![](https://visitor-badge.laobi.icu/badge?page_id=skparab1.skparab1&theme=dark)
 
-### Projects
-  - [Encryption code](https://github.com/skparab1/encryption-code), encrypting and decrypting program written in Python.
-  - [Master-math-calculator](https://github.com/skparab1/master-math-calculator), calculator that can perform all sorts of calculations, from factoring polynomials to generating trig ratios, as well as performing numerical calculations. Runs on a command line interface and is written in Python.
-  - Game codes, like [Pong](https://github.com/skparab1/pong), [Flappy bird](https://github.com/skparab1/flappy-bird), and [Snake game](https://github.com/skparab1/snake-game), replicating the video games in Python
-
 ### About me
   - I am a 10th grader in California
   - I know Python, Javascript and Pascal and am familiar with Html and Java
@@ -17,10 +12,12 @@
   - I like replicating video games in Python, like [Flappy bird](https://github.com/skparab1/flappy-bird), [Pong](https://github.com/skparab1/pong), and [Battleship](https://github.com/skparab1/battleship)
   - I also like biking, hiking, video editing, and 2d animating
 
-### Things I'm doing
-  - [Encryption code](https://github.com/skparab1/encryption-code)
-    - Encryption code 2.3: The next version of Encryption code.
-      - With features like Encryption support for multiple file types
+### Large Projects
+  - [Encryption code](https://github.com/skparab1/encryption-code), encrypting and decrypting program written in Python.
+  - [Master-math-calculator](https://github.com/skparab1/master-math-calculator), calculator that can perform all sorts of calculations, from factoring polynomials to generating trig ratios, as well as performing numerical calculations. Runs on a command line interface and is written in Python.
+  - [Randomizing algorithm](https://github.com/skparab1/randomizing-algorithm), an algorithm based random number generator which is predictable but does not show an immediate pattern. Is written in Python.
+
+### Small Projects
   - Games
      - [Pong](https://github.com/skparab1/pong)
         - Replicating one of the first video games, Pong, in Python
@@ -34,5 +31,5 @@
      - Compiled into [Master math calculator](https://github.com/skparab1/master-math-calculator), which runs on a command line interface.
    - [Javascript interactives](https://github.com/skparab1/javascript-interactives)
      - Set of interactive javascript data visualizations
-   - [Randomizing algorithm](https://github.com/skparab1/randomizing-algorithm)
-     - An algorithm based random number generator
+   - [Dynamic translator](https://github.com/Skparab1/dynamic-spanish-english-translator)
+     - A translator which can learn new entries.
