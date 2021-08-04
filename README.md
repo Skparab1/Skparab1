@@ -20,11 +20,13 @@
 ### Small Projects
   - Games
      - [Pong](https://github.com/skparab1/pong)
-        - Replicating one of the first video games, Pong, in Python
+        - One of the first video games, Pong, in Python
      - [Battleship](https://github.com/skparab1/battleship)
         - Play the board game battleship against the computer. Computer uses AI(Artificial inteligence) and ML(Machine learning) algorithms
      - [Flappy bird](https://github.com/skparab1/flappy-bird)
-        - Replicating the popular video game Flappy bird in Python
+        - The popular video game Flappy bird in Python
+     - [Inkball](https://github.com/skparab1/javascript-inkball)
+        - The video game Inkball in JavaScript
      - Html/Javascript games
         - Check out latest one [here](https://skparab1.itch.io/sword-jumper), co-developed with teammates
    - [Math codes](https://github.com/skparab1/math-codes)
