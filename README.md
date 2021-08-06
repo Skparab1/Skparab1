@@ -26,7 +26,7 @@
      - [Flappy bird](https://github.com/skparab1/flappy-bird)
         - The popular video game Flappy bird in Python
      - [Inkball](https://github.com/skparab1/javascript-inkball)
-        - The video game Inkball in JavaScript. Play it [here](skparab1.itch.io/javascript-inkball)
+        - The video game Inkball in JavaScript. Play it [here](https://skparab1.itch.io/javascript-inkball)
         - Check out latest one [here](https://skparab1.itch.io/sword-jumper), co-developed with teammates
    - [Math codes](https://github.com/skparab1/math-codes)
      - Compiled into [Master math calculator](https://github.com/skparab1/master-math-calculator), which runs on a command line interface.
