@@ -1,7 +1,7 @@
 ## Heyo 👋
 
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=skparab1&radius=10&theme=algolia)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skparab1&theme=algolia&bor&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skparab1&theme=algolia&bor&layout=compact&langs_count=4)
 ![Shubham's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skparab1&layout=compact&theme=algolia)
 ![](https://visitor-badge.laobi.icu/badge?page_id=skparab1.skparab1&theme=dark)
 
@@ -13,7 +13,7 @@
   - I also like biking, hiking, video editing, and 2d animating
 
 ### Large Projects
-  - [Encryption code](https://github.com/skparab1/encryption-code), encrypting and decrypting program written in Python.
+  - [Encryption code](https://github.com/skparab1/encryption-code), an Encryption program written in Python.
   - [Master-math-calculator](https://github.com/skparab1/master-math-calculator), calculator that can perform all sorts of calculations, from factoring polynomials to generating trig ratios, as well as performing numerical calculations. Runs on a command line interface and is written in Python.
   - [Randomizing algorithm](https://github.com/skparab1/randomizing-algorithm), an algorithm based random number generator which is predictable but does not show an immediate pattern. Is written in Python.
 
