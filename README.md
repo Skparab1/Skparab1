@@ -38,4 +38,4 @@
    - [Dynamic translator](https://github.com/Skparab1/dynamic-spanish-english-translator)
      - A translator which can learn new entries.
 ### Main Project I'm working on right now
-- [Encryption code GUI](https://github.com/skparab1/encryption-code-gui) - Toggle Settings
+- [Encryption code GUI](https://github.com/skparab1/encryption-code-gui) - Settings
