@@ -25,7 +25,7 @@
      - [Pong](https://github.com/skparab1/pong)
         - One of the first video games, Pong, in Python
      - [Battleship](https://github.com/skparab1/battleship)
-        - Play the board game battleship against the computer. Computer uses AI(Artificial inteligence) and ML(Machine learning) algorithms
+        - Play the board game battleship against the computer. Computer uses AI algorithms with occasional random guessing
      - [Flappy bird](https://github.com/skparab1/flappy-bird)
         - The popular video game Flappy bird in Python
      - [Inkball](https://github.com/skparab1/javascript-inkball)
