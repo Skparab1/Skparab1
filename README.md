@@ -31,11 +31,15 @@
      - [Inkball](https://github.com/skparab1/javascript-inkball)
         - The video game Inkball in JavaScript. Play it [here](https://skparab1.itch.io/javascript-inkball)
      - [Platformer video game](https://skparab1.itch.io/sword-jumper), co-developed with teammates
-   - [Math codes](https://github.com/skparab1/math-codes)
-     - Compiled into [Master math calculator](https://github.com/skparab1/master-math-calculator), which runs on a command line interface.
    - [Javascript interactives](https://github.com/skparab1/javascript-interactives)
      - Set of interactive javascript data visualizations
-   - [Dynamic translator](https://github.com/Skparab1/dynamic-spanish-english-translator)
-     - A translator which can learn new entries.
+   - Software tools (Software that you can use)
+     - [Math codes](https://github.com/skparab1/math-codes)
+        - Compiled into [Master math calculator](https://github.com/skparab1/master-math-calculator), which runs on a command line interface. 
+     - [Dynamic translator](https://github.com/Skparab1/dynamic-spanish-english-translator)
+        - A translator which can learn new entries.
+     - [ML word engine](https://github.com/Skparab1/ml-word-engine)
+        - ML not done yet, will be done soon
+     - [Ezpixel pro](https://github.com/Skparab1/ezpixel-pro), a high quality image editor
 ### Main Project I'm working on right now
 - [Encryption code GUI](https://github.com/skparab1/encryption-code-gui) - Encryption algorithm detection
