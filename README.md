@@ -1,4 +1,4 @@
-## Hello 👋
+## Hello! Check out my [GitHub website](https://skparab1.github.io), the easiest place to find links to my projects
 
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=skparab1&radius=10&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skparab1&theme=algolia&bor&layout=compact&langs_count=4)
