@@ -42,4 +42,4 @@
         - ML not done yet, will be done soon
      - [Ezpixel pro](https://github.com/Skparab1/ezpixel-pro), a high quality image editor
 ### Main Project I'm working on right now
-- [Encryption code GUI](https://github.com/skparab1/encryption-code-gui) - Encryption algorithm detection
+- [Skparab1.github.io](https://skparab1.github.io) - My github website
