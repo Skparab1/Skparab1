@@ -41,5 +41,7 @@
      - [ML word engine](https://github.com/Skparab1/ml-word-engine)
         - ML not done yet, will be done soon
      - [Ezpixel pro](https://github.com/Skparab1/ezpixel-pro), a high quality image editor
+     - [Traffic simulator](https://github.com/Skparab1/traffic-simulator), a 3rd place hackathon winning traffic simulator that can be used [here](https://skparab1.github.io/r/traffic)
+     - [JS url shortener](https://github.com/Skparab1/js-url-shortener), a URL shortener written in JavaScript and can be hosted on GitHub pages
 ### Main Project I'm working on right now
 - [Skparab1.github.io](https://skparab1.github.io) - My github website
