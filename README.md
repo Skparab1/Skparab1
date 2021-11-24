@@ -1,4 +1,4 @@
-## Hello! Check out my [GitHub website](https://skparab1.github.io), the easiest place to find links to my projects
+## Hello there! Check out my [GitHub website](https://skparab1.github.io), the easiest place to find links to my projects
 
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=skparab1&radius=10&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skparab1&theme=algolia&bor&layout=compact&langs_count=4)
@@ -27,14 +27,11 @@
      - [Inkball](https://github.com/skparab1/javascript-inkball), the video game Inkball in JavaScript. Play it [here](https://skparab1.itch.io/javascript-inkball)
      - [Platformer video game](https://skparab1.itch.io/sword-jumper), co-developed with teammates
    - Software tools (Software that you can use)
-     - [Math codes](https://github.com/skparab1/math-codes)
-        - Compiled into [Master math calculator](https://github.com/skparab1/master-math-calculator), which runs on a command line interface. 
-     - [Dynamic translator](https://github.com/Skparab1/dynamic-spanish-english-translator)
-        - A translator which can learn new entries.
-     - [ML word engine](https://github.com/Skparab1/ml-word-engine)
-        - ML not done yet, will be done soon
-     - [Ezpixel pro](https://github.com/Skparab1/ezpixel-pro), a high quality image editor
+     - [Ezpixel pro](https://github.com/Skparab1/ezpixel-pro), a high quality image editor written in JavaScript
      - [Traffic simulator](https://github.com/Skparab1/traffic-simulator), a 3rd place hackathon winning traffic simulator that can be used [here](https://skparab1.github.io/r/traffic)
      - [JS url shortener](https://github.com/Skparab1/js-url-shortener), a URL shortener written in JavaScript and can be hosted on GitHub pages
+     - [Math codes](https://github.com/skparab1/math-codes), compiled into [Master math calculator](https://github.com/skparab1/master-math-calculator), which runs on a command line interface. 
+     - [Dynamic translator](https://github.com/Skparab1/dynamic-spanish-english-translator), a translator which can learn new entries.
+     - [ML word engine](https://github.com/Skparab1/ml-word-engine), ML not done yet, will be done soon
 ### Main Project I'm working on right now
 - [Skparab1.github.io](https://skparab1.github.io) - My github website
