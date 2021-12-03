@@ -11,13 +11,15 @@
   - I like replicating video games in Python, like [Flappy bird](https://github.com/skparab1/flappy-bird), [Pong](https://github.com/skparab1/pong), and [Battleship](https://github.com/skparab1/battleship)
   - I like making GUIs with Javascript like [Binary converter GUI](https://skparab1.github.io/binary-converter) and [Encryption code GUI](https://github.com/skparab1/encryption-code-gui)
   - I also like biking, hiking, and video editing
-
-### Large Projects
-  - [Encryption code](https://github.com/skparab1/encryption-code), an Encryption program written in Python.
-  - [Smart calculator](https://github.com/skparab1/smart-calculator), calculator that can perform all sorts of calculations, from factoring polynomials to generating trig ratios, as well as performing numerical calculations. Runs on a command line interface and is written in Python.
+ 
+### Popular Projects
+  - [Traffic simulator](https://github.com/Skparab1/traffic-simulator), a 3rd place hackathon winning traffic simulator that can be used [here](https://skparab1.github.io/r/traffic)
+  - [Ezpixel pro](https://github.com/Skparab1/ezpixel-pro), a high quality image editor written in JavaScript
+  - [JS url shortener](https://github.com/Skparab1/js-url-shortener), a URL shortener written in JavaScript and can be hosted on GitHub pages
   - [Randomizing algorithm](https://github.com/skparab1/randomizing-algorithm), an algorithm based random number generator which is predictable but does not show an immediate pattern. Is written in Python.
+  - [Encryption code](https://github.com/skparab1/encryption-code), an Encryption program written in Python.
 
-### Small Projects
+### Other Projects
   - Games
      - [Pong](https://github.com/skparab1/pong), one of the first video games, Pong, in Python
      - [Battleship](https://github.com/skparab1/battleship), play the board game battleship against the computer. Computer uses AI algorithms with occasional random guessing
