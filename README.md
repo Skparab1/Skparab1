@@ -3,7 +3,7 @@
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=skparab1&radius=10&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skparab1&theme=algolia&bor&layout=compact&langs_count=4)
 ![Shubham's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skparab1&layout=compact&theme=algolia)
-![](https://visitor-badge.laobi.icu/badge?page_id=skparab1.skparab1&theme=dark)
+![](https://visitor-badge.laobi.icu/badge?page_id=skparab1.skparab1&theme=algolia)
 
 ### About me
   - I am a 10th grader in California
