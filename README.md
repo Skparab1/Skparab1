@@ -34,4 +34,4 @@
      - [Dynamic translator](https://github.com/Skparab1/dynamic-spanish-english-translator), a translator which can learn new entries.
      - [ML word engine](https://github.com/Skparab1/ml-word-engine), ML not done yet, will be done soon
 ### Main Project I'm working on right now
-- [Skparab1.github.io](https://skparab1.github.io) - [search page](https://skparab1.github.io/search)
+- [Skparab1.github.io](https://skparab1.github.io) - [search page](https://skparab1.github.io/search) and redirect
