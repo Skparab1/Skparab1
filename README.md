@@ -7,7 +7,7 @@
 
 ### About me
   - I am a 10th grader in California
-  - I know Python, JavaScript and Pascal and know some Html and Java
+  - I know Python, HTML, JavaScript, and Pascal and know some Java
   - I like replicating video games in Python, like [Flappy bird](https://github.com/skparab1/flappy-bird), [Pong](https://github.com/skparab1/pong), and [Battleship](https://github.com/skparab1/battleship)
   - I like making GUIs with Javascript like [Binary converter GUI](https://skparab1.github.io/binary-converter) and [Encryption code GUI](https://github.com/skparab1/encryption-code-gui)
   - I like using p5js but i'm switching to html+css because its much faster and easier
