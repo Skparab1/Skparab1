@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skparab1&theme=algolia&bor&layout=compact&langs_count=4)
 ![Shubham's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skparab1&layout=compact&theme=algolia)
 ![](https://visitor-badge.laobi.icu/badge?page_id=skparab1.skparab1&theme=algolia)
-[![Skparab1's github activity graph](https://activity-graph.herokuapp.com/graph?username=Skparab1&layout=compact&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Skparab1's github activity graph](https://activity-graph.herokuapp.com/graph?username=Skparab1&layout=compact&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### About me
   - I am a 10th grader in California
