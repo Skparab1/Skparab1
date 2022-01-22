@@ -40,4 +40,4 @@
      - [Pascals triangle](https://github.com/Skparab1/pascals-triangle), as Pascals triangle generator which can be used [here](skparab1.github.io/r/pascal)
 ### Main Projects I'm working on right now
 - [Skparab1.github.io](https://skparab1.github.io) - [search page](https://skparab1.github.io/search) and Images
-- My [Discord bot](https://github.com/skparab1/skpbot)
+- My [Discord bot](https://github.com/skparab1/skpbot) (i need to make a webpage for it)
