@@ -38,5 +38,6 @@
      - [ML word engine](https://github.com/Skparab1/ml-word-engine), ML not done yet, will be done soon
      - [OSkeyboard](https://github.com/skparab1/oskeyboard), an on screen keyboard implementation and module which can be used [here](https://skparab1.github.io/r/key)
      - [Pascals triangle](https://github.com/Skparab1/pascals-triangle), as Pascals triangle generator which can be used [here](skparab1.github.io/r/pascal)
-### Main Project I'm working on right now
+### Main Projects I'm working on right now
 - [Skparab1.github.io](https://skparab1.github.io) - [search page](https://skparab1.github.io/search) and Images
+- My [Discord bot](https://github.com/skparab1/skpbot)
