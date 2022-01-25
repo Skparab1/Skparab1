@@ -39,5 +39,5 @@
      - [OSkeyboard](https://github.com/skparab1/oskeyboard), an on screen keyboard implementation and module which can be used [here](https://skparab1.github.io/r/key)
      - [Pascals triangle](https://github.com/Skparab1/pascals-triangle), as Pascals triangle generator which can be used [here](skparab1.github.io/r/pascal)
 ### Main Projects I'm working on right now
-- My [Website HomePage](https://skparab1.github.io)
+- My [Website HomePage](https://skparab1.github.io/homepage)
 - My [Discord bot](https://github.com/skparab1/skpbot) (i need to make a webpage for it)
