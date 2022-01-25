@@ -26,7 +26,7 @@
   - Games
      - [Pong](https://github.com/skparab1/pong), one of the first video games, Pong, in Python
      - [Battleship](https://github.com/skparab1/battleship), play the board game battleship against the computer. Computer uses AI algorithms with occasional random guessing
-     - [Flappy bird](https://github.com/skparab1/flappy-bird), the popular video game Flappy bird in Python
+     - [Flappy bird](https://github.com/skparab1/flappy-bird), the popular video game Flappy bird in Python 
      - [Inkball](https://github.com/skparab1/javascript-inkball), the video game Inkball in JavaScript. Play it [here](https://skparab1.itch.io/javascript-inkball)
      - [Platformer video game](https://skparab1.itch.io/sword-jumper), co-developed with teammates
    - Software tools (Software that you can use)
