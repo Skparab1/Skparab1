@@ -14,7 +14,7 @@
   - I like using p5js but i'm switching to html and css because its much faster and easier
   - I like biking, hiking, and video editing
  
-### Popular Projects
+### Interesting Projects
   - [Traffic simulator](https://github.com/Skparab1/traffic-simulator), a 3rd place hackathon winning traffic simulator that can be used [here](https://skparab1.github.io/r/traffic)
   - [Ezpixel pro](https://github.com/Skparab1/ezpixel-pro), a high quality image editor written in JavaScript
   - [JS url shortener](https://github.com/Skparab1/js-url-shortener), a URL shortener written in JavaScript and can be hosted on GitHub pages
@@ -40,4 +40,5 @@
      - [Pascals triangle](https://github.com/Skparab1/pascals-triangle), as Pascals triangle generator which can be used [here](skparab1.github.io/r/pascal)
 ### Main Projects I'm working on right now
 - My new [HomePage](https://skparab1.github.io/homepage)
+- My [Images website](https://github.com/skparab1/images)
 - My [Discord bot](https://github.com/skparab1/skpbot)
