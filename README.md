@@ -40,4 +40,4 @@
 ### Main Projects I'm working on right now
 - My [Images website](https://github.com/skparab1/images)
 - My New search page, which i'm making in svelte
-- I am currently working on using github as a server, using gh api
+- I am currently working on using github as a server, using gh api and actions
