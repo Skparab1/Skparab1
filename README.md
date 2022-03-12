@@ -1,4 +1,4 @@
-## Hello there! Check out my [GitHub website](https://skparab1.github.io), and my newest [message sender](https://skparab1.github.io/server/frontend.html)
+## Hello there! Check out my [GitHub website](https://skparab1.github.io), and my newest [message sender](https://skparab1.github.io/server/frontend.html)!
 
 ![Skparab1's GitHub stats](https://github-readme-stats.vercel.app/api?username=skparab1&radius=5&layout=compact&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skparab1&theme=algolia&bor&layout=compact&langs_count=4)
@@ -13,6 +13,8 @@
   - I like biking, hiking, and video editing
  
 ### Interesting Projects
+  - [Server](https://github.com/skparab1/server), A template and tutorial for using Github as a database
+  - [Skparab1 forum](https://skparab1/github.io/server/frontend), A public message sender, made using my [
   - [Traffic simulator](https://github.com/Skparab1/traffic-simulator), a 3rd place hackathon winning traffic simulator that can be used [here](https://skparab1.github.io/r/traffic)
   - [Ezpixel pro](https://github.com/Skparab1/ezpixel-pro), a high quality image editor written in JavaScript
   - [JS url shortener](https://github.com/Skparab1/js-url-shortener), a URL shortener written in JavaScript and can be hosted on GitHub pages
