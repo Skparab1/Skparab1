@@ -1,8 +1,8 @@
 ## Hello there! Check out my [GitHub website](https://skparab1.github.io), and my newest [message sender](https://skparab1.github.io/server/frontend.html)
 
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=skparab1&radius=5&layout=compact&theme=algolia)
+![Skparab1's GitHub stats](https://github-readme-stats.vercel.app/api?username=skparab1&radius=5&layout=compact&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skparab1&theme=algolia&bor&layout=compact&langs_count=4)
-![Shubham's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skparab1&layout=compact&theme=algolia)
+![Skparab1's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skparab1&layout=compact&theme=algolia)
 ![](https://visitor-badge.laobi.icu/badge?page_id=skparab1.skparab1&theme=algolia)
 [![Skparab1's github activity graph](https://activity-graph.herokuapp.com/graph?username=Skparab1&layout=compact&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
