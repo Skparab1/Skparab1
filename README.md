@@ -13,7 +13,7 @@
   - I like biking, hiking, and video editing
  
 ### Interesting Projects
-  - [Server](https://github.com/skparab1/server), A template and tutorial for using Github as a database using Github API to send data to Github, and Github
+  - [Server](https://github.com/skparab1/server), A template and tutorial for using Github as a database using Github API to send data to Github, and Github Actions to push data
   - [Skparab1 forum](https://skparab1/github.io/server/frontend), A public message sender, made using my [Github database template](https://skparab1.github.io/server/frontend.html)
   - [Traffic simulator](https://github.com/Skparab1/traffic-simulator), a 3rd place hackathon winning traffic simulator that can be used [here](https://skparab1.github.io/r/traffic)
   - [Ezpixel pro](https://github.com/Skparab1/ezpixel-pro), a high quality image editor written in JavaScript
