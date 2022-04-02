@@ -40,4 +40,4 @@
 ### Main Projects I'm working on right now
 - [Images website](https://github.com/skparab1/images)
 - New search page, which i'm making in svelte
-- [Message sender](https://skparab1.github.io/server/frontend)
+- My [Message sender](https://skparab1.github.io/server/frontend), which uses a [github server](https://github.com/skparab1/server)
