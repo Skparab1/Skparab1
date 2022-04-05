@@ -29,7 +29,7 @@
      - [Flappy bird](https://github.com/skparab1/flappy-bird), the popular video game Flappy bird in Python 
      - [Inkball](https://github.com/skparab1/javascript-inkball), the video game Inkball in JavaScript. Play it [here](https://skparab1.itch.io/javascript-inkball)
      - [Platformer video game](https://skparab1.itch.io/sword-jumper), co-developed with teammates
-   - Software tools (Software that you can use)
+   - Software tools
      - [Ezpixel pro](https://github.com/Skparab1/ezpixel-pro), a high quality image editor written in JavaScript
      - [Traffic simulator](https://github.com/Skparab1/traffic-simulator), a 3rd place hackathon winning traffic simulator that can be used [here](https://skparab1.github.io/r/traffic)
      - [JS url shortener](https://github.com/Skparab1/js-url-shortener), a URL shortener written in JavaScript and can be hosted on GitHub pages
