@@ -34,7 +34,7 @@
      - [Traffic simulator](https://github.com/Skparab1/traffic-simulator), a 3rd place hackathon winning traffic simulator that can be used [here](https://skparab1.github.io/r/traffic)
      - [JS url shortener](https://github.com/Skparab1/js-url-shortener), a URL shortener written in JavaScript and can be hosted on GitHub pages
      - [Dynamic translator](https://github.com/Skparab1/dynamic-spanish-english-translator), a translator which can learn new entries.
-     - [ML word engine](https://github.com/Skparab1/ml-word-engine), ML not done yet, will be done soon
+     - [ML word engine](https://github.com/Skparab1/ml-word-engine), ML not done yet
      - [OSkeyboard](https://github.com/skparab1/oskeyboard), an on screen keyboard implementation and module which can be used [here](https://skparab1.github.io/r/key)
      - [Pascals triangle](https://github.com/Skparab1/pascals-triangle), as Pascals triangle generator which can be used [here](skparab1.github.io/r/pascal)
 ### Main Projects I'm working on right now
