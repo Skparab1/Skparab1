@@ -8,7 +8,7 @@
 
 ### About me
   - I am a 10th grader in California
-  - I know Python, HTML, JavaScript, and Pascal and some Java
+  - I know Python, HTML, JavaScript, Java, and Pascal
   - I like webdev
   - I like biking, hiking, and video editing
  
