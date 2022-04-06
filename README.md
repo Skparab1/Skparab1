@@ -1,4 +1,4 @@
-## Hello there! Check out my [GitHub website](https://skparab1.github.io), and my newest [message sender](https://skparab1.github.io/server/frontend.html)!
+## Hello there! Check out my [GitHub website](https://skparab1.github.io), and my new [message sender](https://skparab1.github.io/server/frontend.html)!
 
 ![Skparab1's GitHub stats](https://github-readme-stats.vercel.app/api?username=skparab1&radius=5&layout=compact&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skparab1&theme=algolia&bor&layout=compact&langs_count=4)
