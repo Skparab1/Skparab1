@@ -1,4 +1,4 @@
-## Hello there! Check out my [GitHub website](https://skparab1.github.io), and my new [message sender](https://skparab1.github.io/server/frontend.html)!
+## Hello there! Check out my [GitHub website](https://skparab1.github.io), and my new [message sender](https://skparab1.github.io/server/frontend.html), which uses a [my GitHub database algorithm](https://github.com/skparab1/server)!
 
 ![Skparab1's GitHub stats](https://github-readme-stats.vercel.app/api?username=skparab1&radius=5&layout=compact&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skparab1&theme=algolia&bor&layout=compact&langs_count=4)
@@ -39,4 +39,4 @@
      - [Pascals triangle](https://github.com/Skparab1/pascals-triangle), as Pascals triangle generator which can be used [here](skparab1.github.io/r/pascal)
 ### Main Projects I'm working on right now
 - New search page, which i'm making in svelte
-- My [Message sender](https://skparab1.github.io/server/frontend), which uses a [github server](https://github.com/skparab1/server)
+- My [Message sender](https://skparab1.github.io/server/frontend), which uses a [github database](https://github.com/skparab1/server)
