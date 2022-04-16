@@ -16,7 +16,7 @@
   - [Server](https://github.com/skparab1/server), A template and tutorial for using Github as a database using Github API to send data to Github, and Github Actions to push data into JSON
   - [Skparab1 forum](https://skparab1/github.io/server/frontend), A public message sender, made using my [Github database template](https://skparab1.github.io/server/frontend.html)
   - [Traffic simulator](https://github.com/Skparab1/traffic-simulator), a 3rd place hackathon winning traffic simulator that can be used [here](https://skparab1.github.io/r/traffic)
-  - [Ezpixel pro
+  - [Ezpixel
   - [JS url shortener](https://github.com/Skparab1/js-url-shortener), a URL shortener written in JavaScript and can be hosted on GitHub pages
   - [Randomizing algorithm](https://github.com/skparab1/randomizing-algorithm), an algorithm based random number generator which is predictable but does not show an immediate pattern, written in Python.
   - [OSkeyboard](https://github.com/skparab1/oskeyboard), an onscreen keyboard implementation and module which can be used [here](https://skparab1.github.io/r/key)
