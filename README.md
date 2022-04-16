@@ -10,7 +10,7 @@
   - I am a 10th grader in California
   - I know Python, HTML, JavaScript, Java, and Pascal
   - I like webdev, making websites, and working on site backends
-  - I like biking and hiking, and taking photos, which I post on my images
+  - I like biking and hiking, and taking photos, which I post on my images web
  
 ### Interesting Projects
   - [Server](https://github.com/skparab1/server), A template and tutorial for using Github as a database using Github API to send data to Github, and Github Actions to push data into JSON
