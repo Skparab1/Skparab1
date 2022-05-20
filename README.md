@@ -37,5 +37,5 @@
      - [OSkeyboard](https://github.com/skparab1/oskeyboard), an on screen keyboard implementation and module which can be used [here](https://skparab1.github.io/r/key)
      - [Pascals triangle](https://github.com/Skparab1/pascals-triangle), as Pascals triangle generator which can be used [here](skparab1.github.io/r/pascal)
 ### Main Projects I'm working on right now
-- A game (secret project)
+- A game (secret project), going to be public very soon
 - My [Message sender](https://skparab1.github.io/server/frontend), which uses a [github database](https://github.com/skparab1/server).
