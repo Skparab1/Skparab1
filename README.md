@@ -38,4 +38,5 @@
      - [Pascals triangle](https://github.com/Skparab1/pascals-triangle), as Pascals triangle generator which can be used [here](skparab1.github.io/r/pascal)
 ### Main Projects I'm working on right now
 - A game (secret project), going to be public very soon
+- A Website that is a guide to Mr. Clarke's class
 - My [Message sender](https://skparab1.github.io/server/frontend), which uses a [github database](https://github.com/skparab1/server).
