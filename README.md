@@ -1,4 +1,4 @@
-## Hello there! Check out my [GitHub website](https://skparab1.github.io), and my new [message sender](https://skparab1.github.io/server/frontend.html), which uses my [GitHub database algorithm](https://github.com/skparab1/server)!
+## Hello there! Check out my (and other contributers') latest [Snake Game](https://skparab1.github.io/snake)
 
 ![Skparab1's GitHub stats](https://github-readme-stats.vercel.app/api?username=skparab1&radius=5&layout=compact&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skparab1&theme=algolia&bor&layout=compact&langs_count=4)
@@ -12,11 +12,12 @@
   - I like webdev and making websites
   - I also like mountain biking and hiking, and taking photos, which I post on my images website
  
-### Interesting Projects
+### Latest (good) Projects
+  - [Snake](https://github.com/skparab1/snake) A lightweight, graphics-based game of snake by Skparab1, AninditP, and AdvaitaG, playable [here](https://skparab1.github.io/snake)
   - [Server](https://github.com/skparab1/server), A template and tutorial for using Github as a database using Github API to send data to Github, and Github Actions to push data into JSON
   - [Skparab1 forum](https://skparab1/github.io/server/frontend), A public message sender, made using my [Github database template and algorithm](https://skparab1.github.io/server/frontend.html)
   - [Traffic simulator](https://github.com/Skparab1/traffic-simulator), a 3rd place hackathon winning traffic simulator that can be used [here](https://skparab1.github.io/r/traffic)
-  - [JS url shortener](https://github.com/Skparab1/js-url-shortener), a URL shortener written in JavaScript and can be hosted on GitHub pages
+  - [JS url shortener](https://github.com/Skparab1/go), a URL shortener written in JavaScript and can be hosted on GitHub pages
   - [Randomizing algorithm](https://github.com/skparab1/randomizing-algorithm), an algorithm based random number generator which is predictable but does not show an immediate pattern, written in Python.
   - [OSkeyboard](https://github.com/skparab1/oskeyboard), an onscreen keyboard implementation and module which can be used [here](https://skparab1.github.io/r/key)
   - [Encryption code](https://github.com/skparab1/encryption-code), an encryption program written in Python.
@@ -37,6 +38,6 @@
      - [OSkeyboard](https://github.com/skparab1/oskeyboard), an on screen keyboard implementation and module which can be used [here](https://skparab1.github.io/r/key)
      - [Pascals triangle](https://github.com/Skparab1/pascals-triangle), as Pascals triangle generator which can be used [here](skparab1.github.io/r/pascal)
 ### Main Projects I'm working on right now
-- A game (secret project), going to be public very soon
+- [Snake](https://github.com/skparab1/snake) A lightweight, graphics-based game of snake by Skparab1, AninditP, and AdvaitaG, playable [here](https://skparab1.github.io/snake)
 - A Website that is a guide to Mr. Clarke's class
 - My [Message sender](https://skparab1.github.io/server/frontend), which uses a [github database](https://github.com/skparab1/server).
