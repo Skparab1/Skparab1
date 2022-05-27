@@ -38,6 +38,6 @@
      - [OSkeyboard](https://github.com/skparab1/oskeyboard), an on screen keyboard implementation and module which can be used [here](https://skparab1.github.io/r/key)
      - [Pascals triangle](https://github.com/Skparab1/pascals-triangle), as Pascals triangle generator which can be used [here](skparab1.github.io/r/pascal)
 ### Main Projects I'm working on right now
-- [Snake](https://github.com/skparab1/snake) A lightweight, graphics-based game of snake by Skparab1, AninditP, and AdvaitaG, playable [here](https://skparab1.github.io/snake)
+- [Snake](https://github.com/skparab1/snake) A serverless, graphics-based game of snake with a leaderboard by Skparab1, AninditP, and AdvaitaG, playable [here](https://skparab1.github.io/snake)
 - A Website that is a guide to Mr. Clarke's class
 - My [Message sender](https://skparab1.github.io/server/frontend), which uses a [github database](https://github.com/skparab1/server).
