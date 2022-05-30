@@ -13,7 +13,7 @@
   - I also like mountain biking and hiking, and taking photos, which I post on my images website
  
 ### Latest (good) Projects
-  - [Snake](https://github.com/skparab1/snake) A lightweight, graphics-based game of snake by Skparab1, AninditP, and AdvaitaG, playable [here](https://skparab1.github.io/snake)
+  - [Snake](https://github.com/skparab1/snake) A serverless, graphics-based game of snake with a leaderboard by Skparab1, AninditP, Apawate, and AdvaitaG, playable [here](https://skparab1.github.io/snake)
   - [Server](https://github.com/skparab1/server), A template and tutorial for using Github as a database using Github API to send data to Github, and Github Actions to push data into JSON
   - [Skparab1 forum](https://skparab1/github.io/server/frontend), A public message sender, made using my [Github database template and algorithm](https://skparab1.github.io/server/frontend.html)
   - [Traffic simulator](https://github.com/Skparab1/traffic-simulator), a 3rd place hackathon winning traffic simulator that can be used [here](https://skparab1.github.io/r/traffic)
