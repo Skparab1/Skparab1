@@ -13,7 +13,7 @@
   - I also like mountain biking and hiking, and taking photos, which I post on my images website
  
 ### Latest (good) Projects
-  - [Snake](https://github.com/skparab1/snake) A serverless, graphics-based game of snake with a leaderboard by Skparab1, AninditP, Apawate, and AdvaitaG, playable [here](https://skparab1.github.io/snake)
+  - [Snake](https://github.com/skparab1/snake) A serverless, graphics-based game of snake with a leaderboard by Skparab1, AninditP, AdvaitaG, Apawate, and Anish-lakkapragada playable [here](https://skparab1.github.io/snake)
   - [Server](https://github.com/skparab1/server), A template and tutorial for using Github as a database using Github API to send data to Github, and Github Actions to push data into JSON
   - [Skparab1 forum](https://skparab1/github.io/server/frontend), A public message sender, made using my [Github database template and algorithm](https://skparab1.github.io/server/frontend.html)
   - [Traffic simulator](https://github.com/Skparab1/traffic-simulator), a 3rd place hackathon winning traffic simulator that can be used [here](https://skparab1.github.io/r/traffic)
@@ -38,6 +38,6 @@
      - [OSkeyboard](https://github.com/skparab1/oskeyboard), an on screen keyboard implementation and module which can be used [here](https://skparab1.github.io/r/key)
      - [Pascals triangle](https://github.com/Skparab1/pascals-triangle), as Pascals triangle generator which can be used [here](skparab1.github.io/r/pascal)
 ### Main Projects I'm working on right now
-- [Snake](https://github.com/skparab1/snake) A serverless, graphics-based game of snake with a leaderboard by Skparab1, AninditP, and AdvaitaG, playable [here](https://skparab1.github.io/snake)
+- [Snake](https://github.com/skparab1/snake) A serverless, graphics-based game of snake with a leaderboard by Skparab1, AninditP, AdvaitaG, Apawate, and Anish-lakkapragada playable [here](https://skparab1.github.io/snake)
 - A Website that is a guide to Mr. Clarke's class
 - My [Message sender](https://skparab1.github.io/server/frontend), which uses a [github database](https://github.com/skparab1/server).
