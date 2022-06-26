@@ -40,4 +40,4 @@
 ### Main Projects I'm working on right now
 - [Snake](https://github.com/skparab1/snake) A serverless, graphics-based game of snake with a leaderboard by Skparab1, AninditP, AdvaitaG, Apawate, and Anish-lakkapragada playable [here](https://skparab1.github.io/snake)
 - A Website that is a guide to Mr. Clarke's class
-- My [Message sender](https://skparab1.github.io/server/frontend), which uses a [github database](https://github.com/skparab1/server).
+- My [new main website](https://skparab1.github.io)
