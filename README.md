@@ -1,4 +1,4 @@
-## Hello there! Check out my [new github website](https://skparab1.github.io)!
+## Hello there! Check out my and other contributor's newest [Pacman](https://skparab1.github.io/pacman)!
 
 ![Skparab1's GitHub stats](https://github-readme-stats.vercel.app/api?username=skparab1&radius=5&layout=compact&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skparab1&theme=algolia&bor&layout=compact&langs_count=4)
