@@ -1,4 +1,4 @@
-## Hello there! Check out my and other contributor's newest [Pacman](https://skparab1.github.io/pacman)!
+## Hello there! Check out my and other contributor's newest [Inkball](https://skparab1.github.io/inkball)!
 
 ![Skparab1's GitHub stats](https://github-readme-stats.vercel.app/api?username=skparab1&radius=5&layout=compact&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skparab1&theme=algolia&bor&layout=compact&langs_count=4)
@@ -11,6 +11,7 @@
   - I like webdev and games
  
 ### Latest (good) Projects
+  - [Inkball](https://github.com/skparab1/Pacman) A Canvas implementation of the Windows game inkball by Shubham Parab, Anindit Pati, Advaita Guruprasad, Ritam Chakraborty, and Snehil Kakani
   - [Pacman](https://github.com/skparab1/Pacman) A modern, graphics based game of Pacman by Shubham Parab, Ritam Chakraborty, Anish Lakkapragada, Advaita Guruprasad, Manav Choudhary, Anindit Pati, Agastya Pawate, Patrick Huang, and Abhinav Pala, playable [here](https://skparab1.github.io/pacman)
   - [Snake](https://github.com/skparab1/snake) A serverless, graphics-based game of snake with a leaderboard by Skparab1, AninditP, AdvaitaG, Apawate, and Anish-lakkapragada playable [here](https://skparab1.github.io/snake)
   - [AgpBeats](https://github.com/skparab1/agp-beats) A feature rich music website with like stream counts, playlists, queues, and synced music streaming usable [here](https://skparab1.github.io/agpbeats)
@@ -36,4 +37,4 @@
      - [Encryption code](https://github.com/skparab1/encryption-code), an encryption program written in Python.
      - 
 ### Main Projects I'm working on right now
-- Idli chat, a chat application made for fun
+- nothing, its ap exam season in junior year
