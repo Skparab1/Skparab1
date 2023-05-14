@@ -37,4 +37,4 @@
      - [Encryption code](https://github.com/skparab1/encryption-code), an encryption program written in Python.
      - 
 ### Main Projects I'm working on right now
-- nothing, its ap exam season in junior year
+- redoing my main website
