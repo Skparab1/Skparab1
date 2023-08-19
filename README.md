@@ -6,9 +6,9 @@
 ![Skparab1's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skparab1&layout=compact&theme=algolia)
 
 ### About me
-  - I am a 11th grader in California
+  - I am a 12th grader in California
   - I know Python, HTML, JavaScript, Java, CSS, and Pascal
-  - I like webdev and games
+  - I like webdev, games and cars
  
 ### Projects
   - [Inkball](https://github.com/skparab1/inkball) A Canvas implementation of the Windows game inkball by Shubham Parab, Anindit Pati, Advaita Guruprasad, Ritam Chakraborty, and Snehil Kakani
