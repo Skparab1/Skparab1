@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skparab1&theme=algolia&bor&layout=compact&langs_count=4)
 ![Skparab1's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skparab1&layout=compact&theme=algolia)
 
-### [About me](https://skparab1.github.io/about)
+### [About me](https://about.skparab1.com)
   - I am a 12th grader in California.
   - I primarily am a frontend developer, focusing on browser-based games and special effects, but I also work with backend systems to create databases and APIs.
   - I love to collaborate with others to combine strengths and make projects the best they can be.
@@ -23,4 +23,4 @@
   - [Traffic simulator](https://github.com/Skparab1/traffic-simulator): A 3rd place hackathon winning traffic simulator that can be used [here](https://skparab1.github.io/r/traffic)
 
 ### Contact me
-  - If you wish to contact me, please email me at skparab1@gmail.com! Alternatively, you can fill out the contact form on my [about page](https://skparab1.github.io/about). Thank you!
+  - If you wish to contact me, please email me at skparab1@gmail.com! Alternatively, you can fill out the contact form on my [about page](https://about.skparab1.com). Thank you!
