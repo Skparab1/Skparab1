@@ -5,7 +5,7 @@
 ![Skparab1's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skparab1&layout=compact&theme=algolia)
 
 ### [About me](https://about.skparab1.com)
-  - I am a 12th grader in California.
+  - I am a college freshman studying CS at NYU.
   - I primarily am a frontend developer, focusing on browser-based games and special effects, but I also work with backend systems to create databases and APIs.
   - I love to collaborate with others to combine strengths and make projects the best they can be.
   - I enjoy working with teachers and professors to create web apps to demonstrate concepts and facilitate learning.
