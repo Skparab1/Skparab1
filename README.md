@@ -1,12 +1,9 @@
 ## [Hello, my name is Shubham Parab.](https://about.skparab1.com)
 
-![Skparab1's GitHub stats](https://github-readme-stats.vercel.app/api?username=skparab1&radius=5&layout=compact&theme=algolia)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skparab1&theme=algolia&bor&layout=compact&langs_count=4)
-![Skparab1's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skparab1&layout=compact&theme=algolia)
-
 ### [About me](https://about.skparab1.com)
-  - I am a college freshman studying CS at NYU.
-  - I primarily am a frontend developer, focusing on browser-based games and special effects, but I also work with backend systems to create databases and APIs.
+  - I am a studying CS at the University of Michigan.
+  - I am interested in the application of technology to Healthcare, Education, and Sports.
+  - I enjoy building full stack applications incorporating intuitive UI elements, realtime updates, and interactive special effect components.
   - I love to collaborate with others to combine strengths and make projects the best they can be.
   - I enjoy working with teachers and professors to create web apps to demonstrate concepts and facilitate learning.
   - I like webdev, games, cars, planes, and trains.
